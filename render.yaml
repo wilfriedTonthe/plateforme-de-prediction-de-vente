@@ -1,0 +1,29 @@
+services:
+  # Backend API
+  - type: web
+    name: salespredict-api
+    runtime: python
+    region: frankfurt
+    plan: free
+    buildCommand: cd backend && pip install -r requirements.txt
+    startCommand: cd backend && uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+    healthCheckPath: /api/health
+
+  # Frontend Static Site
+  - type: web
+    name: salespredict-frontend
+    runtime: static
+    region: frankfurt
+    plan: free
+    buildCommand: cd frontend && npm install && npm run build
+    staticPublishPath: frontend/dist
+    envVars:
+      - key: VITE_API_URL
+        value: https://salespredict-api.onrender.com
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html

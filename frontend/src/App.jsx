@@ -31,7 +31,7 @@ import {
 } from 'recharts'
 import axios from 'axios'
 
-const API_BASE = '/api'
+const API_BASE = import.meta.env.VITE_API_URL ? `${import.meta.env.VITE_API_URL}/api` : '/api'
 
 function App() {
   const [products, setProducts] = useState([])
