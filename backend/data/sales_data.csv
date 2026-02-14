@@ -1,0 +1,274 @@
+date,product_id,product_name,quantity,unit_price,total_sales,category
+2024-01-01,P001,Laptop HP,12,899.99,10799.88,Électronique
+2024-01-02,P001,Laptop HP,8,899.99,7199.92,Électronique
+2024-01-03,P001,Laptop HP,15,899.99,13499.85,Électronique
+2024-01-04,P001,Laptop HP,10,899.99,8999.90,Électronique
+2024-01-05,P001,Laptop HP,18,899.99,16199.82,Électronique
+2024-01-06,P001,Laptop HP,22,899.99,19799.78,Électronique
+2024-01-07,P001,Laptop HP,25,899.99,22499.75,Électronique
+2024-01-08,P001,Laptop HP,14,899.99,12599.86,Électronique
+2024-01-09,P001,Laptop HP,11,899.99,9899.89,Électronique
+2024-01-10,P001,Laptop HP,9,899.99,8099.91,Électronique
+2024-01-11,P001,Laptop HP,13,899.99,11699.87,Électronique
+2024-01-12,P001,Laptop HP,20,899.99,17999.80,Électronique
+2024-01-13,P001,Laptop HP,28,899.99,25199.72,Électronique
+2024-01-14,P001,Laptop HP,30,899.99,26999.70,Électronique
+2024-01-15,P001,Laptop HP,16,899.99,14399.84,Électronique
+2024-01-16,P001,Laptop HP,12,899.99,10799.88,Électronique
+2024-01-17,P001,Laptop HP,10,899.99,8999.90,Électronique
+2024-01-18,P001,Laptop HP,14,899.99,12599.86,Électronique
+2024-01-19,P001,Laptop HP,19,899.99,17099.81,Électronique
+2024-01-20,P001,Laptop HP,24,899.99,21599.76,Électronique
+2024-01-21,P001,Laptop HP,27,899.99,24299.73,Électronique
+2024-01-22,P001,Laptop HP,15,899.99,13499.85,Électronique
+2024-01-23,P001,Laptop HP,11,899.99,9899.89,Électronique
+2024-01-24,P001,Laptop HP,9,899.99,8099.91,Électronique
+2024-01-25,P001,Laptop HP,13,899.99,11699.87,Électronique
+2024-01-26,P001,Laptop HP,21,899.99,18899.79,Électronique
+2024-01-27,P001,Laptop HP,26,899.99,23399.74,Électronique
+2024-01-28,P001,Laptop HP,29,899.99,26099.71,Électronique
+2024-01-29,P001,Laptop HP,17,899.99,15299.83,Électronique
+2024-01-30,P001,Laptop HP,12,899.99,10799.88,Électronique
+2024-01-31,P001,Laptop HP,10,899.99,8999.90,Électronique
+2024-02-01,P001,Laptop HP,14,899.99,12599.86,Électronique
+2024-02-02,P001,Laptop HP,18,899.99,16199.82,Électronique
+2024-02-03,P001,Laptop HP,23,899.99,20699.77,Électronique
+2024-02-04,P001,Laptop HP,28,899.99,25199.72,Électronique
+2024-02-05,P001,Laptop HP,16,899.99,14399.84,Électronique
+2024-02-06,P001,Laptop HP,11,899.99,9899.89,Électronique
+2024-02-07,P001,Laptop HP,9,899.99,8099.91,Électronique
+2024-02-08,P001,Laptop HP,12,899.99,10799.88,Électronique
+2024-02-09,P001,Laptop HP,17,899.99,15299.83,Électronique
+2024-02-10,P001,Laptop HP,22,899.99,19799.78,Électronique
+2024-02-11,P001,Laptop HP,26,899.99,23399.74,Électronique
+2024-02-12,P001,Laptop HP,15,899.99,13499.85,Électronique
+2024-02-13,P001,Laptop HP,11,899.99,9899.89,Électronique
+2024-02-14,P001,Laptop HP,32,899.99,28799.68,Électronique
+2024-02-15,P001,Laptop HP,14,899.99,12599.86,Électronique
+2024-02-16,P001,Laptop HP,19,899.99,17099.81,Électronique
+2024-02-17,P001,Laptop HP,24,899.99,21599.76,Électronique
+2024-02-18,P001,Laptop HP,27,899.99,24299.73,Électronique
+2024-02-19,P001,Laptop HP,13,899.99,11699.87,Électronique
+2024-02-20,P001,Laptop HP,10,899.99,8999.90,Électronique
+2024-02-21,P001,Laptop HP,8,899.99,7199.92,Électronique
+2024-02-22,P001,Laptop HP,12,899.99,10799.88,Électronique
+2024-02-23,P001,Laptop HP,18,899.99,16199.82,Électronique
+2024-02-24,P001,Laptop HP,23,899.99,20699.77,Électronique
+2024-02-25,P001,Laptop HP,28,899.99,25199.72,Électronique
+2024-02-26,P001,Laptop HP,15,899.99,13499.85,Électronique
+2024-02-27,P001,Laptop HP,11,899.99,9899.89,Électronique
+2024-02-28,P001,Laptop HP,9,899.99,8099.91,Électronique
+2024-02-29,P001,Laptop HP,13,899.99,11699.87,Électronique
+2024-03-01,P001,Laptop HP,16,899.99,14399.84,Électronique
+2024-03-02,P001,Laptop HP,21,899.99,18899.79,Électronique
+2024-03-03,P001,Laptop HP,25,899.99,22499.75,Électronique
+2024-03-04,P001,Laptop HP,14,899.99,12599.86,Électronique
+2024-03-05,P001,Laptop HP,10,899.99,8999.90,Électronique
+2024-03-06,P001,Laptop HP,8,899.99,7199.92,Électronique
+2024-03-07,P001,Laptop HP,11,899.99,9899.89,Électronique
+2024-03-08,P001,Laptop HP,17,899.99,15299.83,Électronique
+2024-03-09,P001,Laptop HP,22,899.99,19799.78,Électronique
+2024-03-10,P001,Laptop HP,27,899.99,24299.73,Électronique
+2024-03-11,P001,Laptop HP,15,899.99,13499.85,Électronique
+2024-03-12,P001,Laptop HP,11,899.99,9899.89,Électronique
+2024-03-13,P001,Laptop HP,9,899.99,8099.91,Électronique
+2024-03-14,P001,Laptop HP,12,899.99,10799.88,Électronique
+2024-03-15,P001,Laptop HP,18,899.99,16199.82,Électronique
+2024-03-16,P001,Laptop HP,24,899.99,21599.76,Électronique
+2024-03-17,P001,Laptop HP,29,899.99,26099.71,Électronique
+2024-03-18,P001,Laptop HP,16,899.99,14399.84,Électronique
+2024-03-19,P001,Laptop HP,12,899.99,10799.88,Électronique
+2024-03-20,P001,Laptop HP,10,899.99,8999.90,Électronique
+2024-03-21,P001,Laptop HP,13,899.99,11699.87,Électronique
+2024-03-22,P001,Laptop HP,19,899.99,17099.81,Électronique
+2024-03-23,P001,Laptop HP,25,899.99,22499.75,Électronique
+2024-03-24,P001,Laptop HP,30,899.99,26999.70,Électronique
+2024-03-25,P001,Laptop HP,17,899.99,15299.83,Électronique
+2024-03-26,P001,Laptop HP,13,899.99,11699.87,Électronique
+2024-03-27,P001,Laptop HP,10,899.99,8999.90,Électronique
+2024-03-28,P001,Laptop HP,14,899.99,12599.86,Électronique
+2024-03-29,P001,Laptop HP,20,899.99,17999.80,Électronique
+2024-03-30,P001,Laptop HP,26,899.99,23399.74,Électronique
+2024-03-31,P001,Laptop HP,31,899.99,27899.69,Électronique
+2024-01-01,P002,Souris Logitech,45,29.99,1349.55,Accessoires
+2024-01-02,P002,Souris Logitech,38,29.99,1139.62,Accessoires
+2024-01-03,P002,Souris Logitech,52,29.99,1559.48,Accessoires
+2024-01-04,P002,Souris Logitech,41,29.99,1229.59,Accessoires
+2024-01-05,P002,Souris Logitech,58,29.99,1739.42,Accessoires
+2024-01-06,P002,Souris Logitech,65,29.99,1949.35,Accessoires
+2024-01-07,P002,Souris Logitech,72,29.99,2159.28,Accessoires
+2024-01-08,P002,Souris Logitech,48,29.99,1439.52,Accessoires
+2024-01-09,P002,Souris Logitech,40,29.99,1199.60,Accessoires
+2024-01-10,P002,Souris Logitech,35,29.99,1049.65,Accessoires
+2024-01-11,P002,Souris Logitech,44,29.99,1319.56,Accessoires
+2024-01-12,P002,Souris Logitech,55,29.99,1649.45,Accessoires
+2024-01-13,P002,Souris Logitech,68,29.99,2039.32,Accessoires
+2024-01-14,P002,Souris Logitech,75,29.99,2249.25,Accessoires
+2024-01-15,P002,Souris Logitech,50,29.99,1499.50,Accessoires
+2024-01-16,P002,Souris Logitech,42,29.99,1259.58,Accessoires
+2024-01-17,P002,Souris Logitech,36,29.99,1079.64,Accessoires
+2024-01-18,P002,Souris Logitech,47,29.99,1409.53,Accessoires
+2024-01-19,P002,Souris Logitech,56,29.99,1679.44,Accessoires
+2024-01-20,P002,Souris Logitech,67,29.99,2009.33,Accessoires
+2024-01-21,P002,Souris Logitech,74,29.99,2219.26,Accessoires
+2024-01-22,P002,Souris Logitech,49,29.99,1469.51,Accessoires
+2024-01-23,P002,Souris Logitech,41,29.99,1229.59,Accessoires
+2024-01-24,P002,Souris Logitech,34,29.99,1019.66,Accessoires
+2024-01-25,P002,Souris Logitech,43,29.99,1289.57,Accessoires
+2024-01-26,P002,Souris Logitech,57,29.99,1709.43,Accessoires
+2024-01-27,P002,Souris Logitech,69,29.99,2069.31,Accessoires
+2024-01-28,P002,Souris Logitech,76,29.99,2279.24,Accessoires
+2024-01-29,P002,Souris Logitech,51,29.99,1529.49,Accessoires
+2024-01-30,P002,Souris Logitech,43,29.99,1289.57,Accessoires
+2024-01-31,P002,Souris Logitech,37,29.99,1109.63,Accessoires
+2024-02-01,P002,Souris Logitech,46,29.99,1379.54,Accessoires
+2024-02-02,P002,Souris Logitech,54,29.99,1619.46,Accessoires
+2024-02-03,P002,Souris Logitech,66,29.99,1979.34,Accessoires
+2024-02-04,P002,Souris Logitech,73,29.99,2189.27,Accessoires
+2024-02-05,P002,Souris Logitech,48,29.99,1439.52,Accessoires
+2024-02-06,P002,Souris Logitech,40,29.99,1199.60,Accessoires
+2024-02-07,P002,Souris Logitech,33,29.99,989.67,Accessoires
+2024-02-08,P002,Souris Logitech,42,29.99,1259.58,Accessoires
+2024-02-09,P002,Souris Logitech,53,29.99,1589.47,Accessoires
+2024-02-10,P002,Souris Logitech,64,29.99,1919.36,Accessoires
+2024-02-11,P002,Souris Logitech,71,29.99,2129.29,Accessoires
+2024-02-12,P002,Souris Logitech,47,29.99,1409.53,Accessoires
+2024-02-13,P002,Souris Logitech,39,29.99,1169.61,Accessoires
+2024-02-14,P002,Souris Logitech,85,29.99,2549.15,Accessoires
+2024-02-15,P002,Souris Logitech,45,29.99,1349.55,Accessoires
+2024-02-16,P002,Souris Logitech,55,29.99,1649.45,Accessoires
+2024-02-17,P002,Souris Logitech,67,29.99,2009.33,Accessoires
+2024-02-18,P002,Souris Logitech,74,29.99,2219.26,Accessoires
+2024-02-19,P002,Souris Logitech,49,29.99,1469.51,Accessoires
+2024-02-20,P002,Souris Logitech,41,29.99,1229.59,Accessoires
+2024-02-21,P002,Souris Logitech,35,29.99,1049.65,Accessoires
+2024-02-22,P002,Souris Logitech,44,29.99,1319.56,Accessoires
+2024-02-23,P002,Souris Logitech,56,29.99,1679.44,Accessoires
+2024-02-24,P002,Souris Logitech,68,29.99,2039.32,Accessoires
+2024-02-25,P002,Souris Logitech,75,29.99,2249.25,Accessoires
+2024-02-26,P002,Souris Logitech,50,29.99,1499.50,Accessoires
+2024-02-27,P002,Souris Logitech,42,29.99,1259.58,Accessoires
+2024-02-28,P002,Souris Logitech,36,29.99,1079.64,Accessoires
+2024-02-29,P002,Souris Logitech,45,29.99,1349.55,Accessoires
+2024-03-01,P002,Souris Logitech,52,29.99,1559.48,Accessoires
+2024-03-02,P002,Souris Logitech,63,29.99,1889.37,Accessoires
+2024-03-03,P002,Souris Logitech,70,29.99,2099.30,Accessoires
+2024-03-04,P002,Souris Logitech,46,29.99,1379.54,Accessoires
+2024-03-05,P002,Souris Logitech,38,29.99,1139.62,Accessoires
+2024-03-06,P002,Souris Logitech,32,29.99,959.68,Accessoires
+2024-03-07,P002,Souris Logitech,41,29.99,1229.59,Accessoires
+2024-03-08,P002,Souris Logitech,54,29.99,1619.46,Accessoires
+2024-03-09,P002,Souris Logitech,65,29.99,1949.35,Accessoires
+2024-03-10,P002,Souris Logitech,72,29.99,2159.28,Accessoires
+2024-03-11,P002,Souris Logitech,48,29.99,1439.52,Accessoires
+2024-03-12,P002,Souris Logitech,40,29.99,1199.60,Accessoires
+2024-03-13,P002,Souris Logitech,34,29.99,1019.66,Accessoires
+2024-03-14,P002,Souris Logitech,43,29.99,1289.57,Accessoires
+2024-03-15,P002,Souris Logitech,55,29.99,1649.45,Accessoires
+2024-03-16,P002,Souris Logitech,67,29.99,2009.33,Accessoires
+2024-03-17,P002,Souris Logitech,74,29.99,2219.26,Accessoires
+2024-03-18,P002,Souris Logitech,49,29.99,1469.51,Accessoires
+2024-03-19,P002,Souris Logitech,41,29.99,1229.59,Accessoires
+2024-03-20,P002,Souris Logitech,35,29.99,1049.65,Accessoires
+2024-03-21,P002,Souris Logitech,44,29.99,1319.56,Accessoires
+2024-03-22,P002,Souris Logitech,57,29.99,1709.43,Accessoires
+2024-03-23,P002,Souris Logitech,69,29.99,2069.31,Accessoires
+2024-03-24,P002,Souris Logitech,76,29.99,2279.24,Accessoires
+2024-03-25,P002,Souris Logitech,51,29.99,1529.49,Accessoires
+2024-03-26,P002,Souris Logitech,43,29.99,1289.57,Accessoires
+2024-03-27,P002,Souris Logitech,37,29.99,1109.63,Accessoires
+2024-03-28,P002,Souris Logitech,46,29.99,1379.54,Accessoires
+2024-03-29,P002,Souris Logitech,58,29.99,1739.42,Accessoires
+2024-03-30,P002,Souris Logitech,70,29.99,2099.30,Accessoires
+2024-03-31,P002,Souris Logitech,77,29.99,2309.23,Accessoires
+2024-01-01,P003,Écran Samsung 27,8,349.99,2799.92,Électronique
+2024-01-02,P003,Écran Samsung 27,5,349.99,1749.95,Électronique
+2024-01-03,P003,Écran Samsung 27,10,349.99,3499.90,Électronique
+2024-01-04,P003,Écran Samsung 27,7,349.99,2449.93,Électronique
+2024-01-05,P003,Écran Samsung 27,12,349.99,4199.88,Électronique
+2024-01-06,P003,Écran Samsung 27,15,349.99,5249.85,Électronique
+2024-01-07,P003,Écran Samsung 27,18,349.99,6299.82,Électronique
+2024-01-08,P003,Écran Samsung 27,9,349.99,3149.91,Électronique
+2024-01-09,P003,Écran Samsung 27,6,349.99,2099.94,Électronique
+2024-01-10,P003,Écran Samsung 27,4,349.99,1399.96,Électronique
+2024-01-11,P003,Écran Samsung 27,8,349.99,2799.92,Électronique
+2024-01-12,P003,Écran Samsung 27,13,349.99,4549.87,Électronique
+2024-01-13,P003,Écran Samsung 27,17,349.99,5949.83,Électronique
+2024-01-14,P003,Écran Samsung 27,20,349.99,6999.80,Électronique
+2024-01-15,P003,Écran Samsung 27,11,349.99,3849.89,Électronique
+2024-01-16,P003,Écran Samsung 27,7,349.99,2449.93,Électronique
+2024-01-17,P003,Écran Samsung 27,5,349.99,1749.95,Électronique
+2024-01-18,P003,Écran Samsung 27,9,349.99,3149.91,Électronique
+2024-01-19,P003,Écran Samsung 27,14,349.99,4899.86,Électronique
+2024-01-20,P003,Écran Samsung 27,18,349.99,6299.82,Électronique
+2024-01-21,P003,Écran Samsung 27,21,349.99,7349.79,Électronique
+2024-01-22,P003,Écran Samsung 27,12,349.99,4199.88,Électronique
+2024-01-23,P003,Écran Samsung 27,8,349.99,2799.92,Électronique
+2024-01-24,P003,Écran Samsung 27,5,349.99,1749.95,Électronique
+2024-01-25,P003,Écran Samsung 27,9,349.99,3149.91,Électronique
+2024-01-26,P003,Écran Samsung 27,15,349.99,5249.85,Électronique
+2024-01-27,P003,Écran Samsung 27,19,349.99,6649.81,Électronique
+2024-01-28,P003,Écran Samsung 27,22,349.99,7699.78,Électronique
+2024-01-29,P003,Écran Samsung 27,13,349.99,4549.87,Électronique
+2024-01-30,P003,Écran Samsung 27,9,349.99,3149.91,Électronique
+2024-01-31,P003,Écran Samsung 27,6,349.99,2099.94,Électronique
+2024-02-01,P003,Écran Samsung 27,10,349.99,3499.90,Électronique
+2024-02-02,P003,Écran Samsung 27,14,349.99,4899.86,Électronique
+2024-02-03,P003,Écran Samsung 27,18,349.99,6299.82,Électronique
+2024-02-04,P003,Écran Samsung 27,21,349.99,7349.79,Électronique
+2024-02-05,P003,Écran Samsung 27,12,349.99,4199.88,Électronique
+2024-02-06,P003,Écran Samsung 27,8,349.99,2799.92,Électronique
+2024-02-07,P003,Écran Samsung 27,5,349.99,1749.95,Électronique
+2024-02-08,P003,Écran Samsung 27,9,349.99,3149.91,Électronique
+2024-02-09,P003,Écran Samsung 27,13,349.99,4549.87,Électronique
+2024-02-10,P003,Écran Samsung 27,17,349.99,5949.83,Électronique
+2024-02-11,P003,Écran Samsung 27,20,349.99,6999.80,Électronique
+2024-02-12,P003,Écran Samsung 27,11,349.99,3849.89,Électronique
+2024-02-13,P003,Écran Samsung 27,7,349.99,2449.93,Électronique
+2024-02-14,P003,Écran Samsung 27,25,349.99,8749.75,Électronique
+2024-02-15,P003,Écran Samsung 27,10,349.99,3499.90,Électronique
+2024-02-16,P003,Écran Samsung 27,14,349.99,4899.86,Électronique
+2024-02-17,P003,Écran Samsung 27,18,349.99,6299.82,Électronique
+2024-02-18,P003,Écran Samsung 27,21,349.99,7349.79,Électronique
+2024-02-19,P003,Écran Samsung 27,12,349.99,4199.88,Électronique
+2024-02-20,P003,Écran Samsung 27,8,349.99,2799.92,Électronique
+2024-02-21,P003,Écran Samsung 27,5,349.99,1749.95,Électronique
+2024-02-22,P003,Écran Samsung 27,9,349.99,3149.91,Électronique
+2024-02-23,P003,Écran Samsung 27,15,349.99,5249.85,Électronique
+2024-02-24,P003,Écran Samsung 27,19,349.99,6649.81,Électronique
+2024-02-25,P003,Écran Samsung 27,22,349.99,7699.78,Électronique
+2024-02-26,P003,Écran Samsung 27,13,349.99,4549.87,Électronique
+2024-02-27,P003,Écran Samsung 27,9,349.99,3149.91,Électronique
+2024-02-28,P003,Écran Samsung 27,6,349.99,2099.94,Électronique
+2024-02-29,P003,Écran Samsung 27,10,349.99,3499.90,Électronique
+2024-03-01,P003,Écran Samsung 27,12,349.99,4199.88,Électronique
+2024-03-02,P003,Écran Samsung 27,16,349.99,5599.84,Électronique
+2024-03-03,P003,Écran Samsung 27,19,349.99,6649.81,Électronique
+2024-03-04,P003,Écran Samsung 27,11,349.99,3849.89,Électronique
+2024-03-05,P003,Écran Samsung 27,7,349.99,2449.93,Électronique
+2024-03-06,P003,Écran Samsung 27,4,349.99,1399.96,Électronique
+2024-03-07,P003,Écran Samsung 27,8,349.99,2799.92,Électronique
+2024-03-08,P003,Écran Samsung 27,13,349.99,4549.87,Électronique
+2024-03-09,P003,Écran Samsung 27,17,349.99,5949.83,Électronique
+2024-03-10,P003,Écran Samsung 27,20,349.99,6999.80,Électronique
+2024-03-11,P003,Écran Samsung 27,11,349.99,3849.89,Électronique
+2024-03-12,P003,Écran Samsung 27,7,349.99,2449.93,Électronique
+2024-03-13,P003,Écran Samsung 27,5,349.99,1749.95,Électronique
+2024-03-14,P003,Écran Samsung 27,9,349.99,3149.91,Électronique
+2024-03-15,P003,Écran Samsung 27,14,349.99,4899.86,Électronique
+2024-03-16,P003,Écran Samsung 27,18,349.99,6299.82,Électronique
+2024-03-17,P003,Écran Samsung 27,21,349.99,7349.79,Électronique
+2024-03-18,P003,Écran Samsung 27,12,349.99,4199.88,Électronique
+2024-03-19,P003,Écran Samsung 27,8,349.99,2799.92,Électronique
+2024-03-20,P003,Écran Samsung 27,5,349.99,1749.95,Électronique
+2024-03-21,P003,Écran Samsung 27,9,349.99,3149.91,Électronique
+2024-03-22,P003,Écran Samsung 27,15,349.99,5249.85,Électronique
+2024-03-23,P003,Écran Samsung 27,19,349.99,6649.81,Électronique
+2024-03-24,P003,Écran Samsung 27,22,349.99,7699.78,Électronique
+2024-03-25,P003,Écran Samsung 27,13,349.99,4549.87,Électronique
+2024-03-26,P003,Écran Samsung 27,9,349.99,3149.91,Électronique
+2024-03-27,P003,Écran Samsung 27,6,349.99,2099.94,Électronique
+2024-03-28,P003,Écran Samsung 27,10,349.99,3499.90,Électronique
+2024-03-29,P003,Écran Samsung 27,16,349.99,5599.84,Électronique
+2024-03-30,P003,Écran Samsung 27,20,349.99,6999.80,Électronique
+2024-03-31,P003,Écran Samsung 27,23,349.99,8049.77,Électronique
