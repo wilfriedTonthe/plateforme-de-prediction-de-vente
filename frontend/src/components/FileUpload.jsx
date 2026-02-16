@@ -61,7 +61,7 @@ export default function FileUpload({ onDataLoaded, onClose }) {
       const formData = new FormData()
       formData.append('file', selectedFile)
 
-      const response = await axios.post(`${API_BASE}/upload`, formData, {
+      const response = await axios.post(`${API_BASE}/api/upload`, formData, {
         headers: { 'Content-Type': 'multipart/form-data' }
       })
 
