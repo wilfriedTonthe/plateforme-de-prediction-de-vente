@@ -103,7 +103,7 @@ export default function FileUpload({ onDataLoaded, onClose }) {
       }
 
       const response = await axios.post(
-        `${API_BASE}/load-data?${params.toString()}`,
+        `${API_BASE}/api/load-data?${params.toString()}`,
         formData,
         { headers: { 'Content-Type': 'multipart/form-data' } }
       )
