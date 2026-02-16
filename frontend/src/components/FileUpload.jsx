@@ -2,7 +2,8 @@ import { useState, useCallback } from 'react'
 import { Upload, FileSpreadsheet, CheckCircle, AlertCircle, Loader2, X } from 'lucide-react'
 import axios from 'axios'
 
-const API_BASE = '/api'
+const API_BASE = import.meta.env.VITE_API_URL
+
 
 export default function FileUpload({ onDataLoaded, onClose }) {
   const [isDragging, setIsDragging] = useState(false)
